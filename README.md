@@ -3,13 +3,13 @@
 <img align="right" width="400" src="[https://thumbs.dreamstime.com/b/freelance-woman-working-laptop-home-remote-work-concept-flat-vector-illustration-ai-generated-273814928.jpg](https://th.bing.com/th/id/OIP.7dkpW-av41vzRYUwp1sgFAHaHa?pid=ImgDet&rs=1)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitadhole09&label=Profile%20views&color=0e75b6&style=flat" alt="ankitadhole09" /> </p>
 
-- 🌱 I’m currently learning **Dsa(java),python,C**
+- 🌱 I’m currently learning **Dsa(java),DBMS,OS**
 
-- 👯 I’m looking to collaborate on **projects related to AIML, AIDS and Cyber Security**
+- 👯 I’m looking to collaborate on **projects related to ML,DBMS**
 
-- 🤝 I’m looking for help with **AIML, AIDS and Cyber Security**
+- 🤝 I’m looking for help with **ML,DBMS**
 
-- 💬 Ask me about **Java and C**
+- 💬 Ask me about **Java and Python**
 
 - ⚡ Fun fact **I'm a quick learner and I'm always eager to take on new challenges. I'm passionate about my work and I'm always looking for ways to improve.**
 
